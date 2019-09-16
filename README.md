@@ -1,5 +1,6 @@
 # Deep-Learning-Lecture
 [1. tasks_190730.py]
+
 tensorflow 등을 사용하지 않고 Apporximeter (사용하고자 하는 모델)을 fx = ax^2 + bx + c의 이차방정식으로 설정.
 주어진 X, Y값을 가지고 weight를 최적화스럽게 찾아가는 코드이다.
 
